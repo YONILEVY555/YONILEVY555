@@ -6,7 +6,6 @@
 
 - 📫 How to reach me **yonilevy555@gmail.com**
 - 💬 ask me about anything, i am happy to help;
-- 💼 any software development work? do reach, yonilevy555@gmail.com :)
 - 🔭 I’m currently working on **Match**
 - 🌱 I’m currently learning **Spring Boot, React**
 
